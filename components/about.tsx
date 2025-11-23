@@ -32,7 +32,7 @@ export default function About() {
                 <div className="w-24 h-24 mx-auto bg-primary/30 rounded-full flex items-center justify-center mb-4">
                   <span className="text-5xl">👨‍💻</span>
                 </div>
-                <p className="text-sm text-muted-foreground">Professional Photo</p>
+                <p className="text-sm text-muted-foreground"></p>
               </div>
             </div>
           </div>
