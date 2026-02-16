@@ -175,8 +175,8 @@ export default function Projects() {
                     View Project →
                   </a>
                 ) : (
-                  <div className="w-full py-2 text-sm font-semibold text-muted-foreground/70 border rounded-lg text-center">
-                    Coming Soon
+                  <div >
+                   
                   </div>
                 )}
               </div>
