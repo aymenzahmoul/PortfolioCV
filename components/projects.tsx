@@ -13,6 +13,14 @@ type Project = {
 
 const projects: Project[] = [
   {
+    name: "Lanci ",
+    description:
+      "Contributed to a modern enterprise-grade full-stack monorepo architecture using React, Express.js, TypeScript and Turborepo. Developed reusable cross-application packages to reduce code duplication and improve scalability. Implemented performant API endpoints and modular backend services following clean architecture principles.",
+    tech: ["React", "Express", "TypeScript", "Turborepo", "PostgreSQL", "Docker","TRPC"],
+    imageUrl: "/images/image.png",
+    link: "https://lanci.tn/en",
+  },
+  {
     name: "EatOrder – Online Ordering Platform",
     description:
       "Developed and maintained an online ordering platform for restaurants. Integrated secure payment systems and real-time notification features. Built content management tools and enabled real-time communication.",
